@@ -1,6 +1,6 @@
 # Multi-Objective-Optimal-Threshold-Selection-for-Similarity-Functions-in-Siamese-Networks
 Code accompaniment for the research work submitted by Sparcus Technologies Limited on Multi-Objective Optimal Threshold Selection for Similarity Functions in Siamese Networks for Semantic Textual Similarity Tasks.<br>
-Preprint can be found here: Not available yet <br>
+Preprint can be found here: https://www.preprints.org/manuscript/202407.0020/v1 <br>
 
 # Abstract <br>
 This paper presents a comparative study of fundamental similarity functions for Siamese networks in semantic textual similarity (STS) tasks. We evaluate various similarity functions using the STS Benchmark dataset, analyzing their performance and stability. Additionally, we introduce a novel multi-objective approach for optimal threshold selection. Our findings provide insights into the effectiveness of different similarity functions and offer a straightforward method for threshold selection optimization, contributing to the advancement of Siamese network architectures in STS applications.
